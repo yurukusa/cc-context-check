@@ -1,0 +1,27 @@
+{
+  "name": "cc-context-check",
+  "version": "1.0.0",
+  "description": "See how full your Claude Code context window is — reads token usage from session transcripts",
+  "main": "cli.mjs",
+  "bin": {
+    "cc-context-check": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "ai",
+    "context-window",
+    "token-usage",
+    "developer-tools",
+    "cli"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
