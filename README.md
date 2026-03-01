@@ -47,7 +47,7 @@ cc-context-check reads the actual `input_tokens`, `cache_read_input_tokens`, and
 
 ## Part of cc-toolkit
 
-One of 43 free tools for Claude Code users → [cc-toolkit](https://yurukusa.github.io/cc-toolkit/)
+One of 44 free tools for Claude Code users → [cc-toolkit](https://yurukusa.github.io/cc-toolkit/)
 
 ## License
 
